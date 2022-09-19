@@ -1,5 +1,8 @@
 <h1>Code Refactor Starter Code - Module 1</h1>
 
+<h3>Link to Project<h3>
+https://shwnsmith12.github.io/HM-1/
+
 <h3>Description of Project</h3>
 This project created a mockup page for a company called Horiseon Social Solution Services. You'll find information on services the company provides such as:
 
